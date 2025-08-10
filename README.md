@@ -9,5 +9,3 @@ This project analyzes tennis match videos to:
 - Apply perspective correction using homography
 - Track individual players using YOLO
 - Calculate real-world distances moved by each player
-
-## 🏗️ Architecture
